@@ -1,11 +1,12 @@
-# Tauri + React
+# NotebookLM Desktop
 
-This template should help get you started developing with Tauri and React in Vite.
+AI knowledge management desktop app built with Tauri + React.
 
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
-
+## Features
+- Local LLM support
+- Document ingestion
+- Audio summary
+- 
 # NotebookLM Desktop (Unofficial)
 這是一個使用 Tauri + React + Python 建構的非官方 [NotebookLM](https://notebooklm.google.com/) 桌面應用程式。後端使用 [notebooklm-py](https://github.com/d09301021/notebooklm-py) 進行 API 互動，前端提供現代化的桌面體驗。
 ## ✨ 特色
