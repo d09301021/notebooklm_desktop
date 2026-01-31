@@ -1,0 +1,48 @@
+# Root Exclusions
+chrome_profile/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Node
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Python
+python_api/__pycache__/
+python_api/*.py[cod]
+python_api/venv/
+python_api/.venv/
+python_api/.env
+python_api/build/
+python_api/dist/
+python_api/*.spec
+
+# Python App Specific Large/Sensitive Files
+python_api/chrome_profile/
+python_api/chat_history.json
+python_api/session_cache.json
+python_api/mindmap.json
+python_api/*.mp3
+
+# Tauri/Rust
+src-tauri/target/

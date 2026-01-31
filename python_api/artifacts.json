@@ -1,0 +1,47 @@
+{
+  "5205c086-6ffa-413a-a75b-dd25994866b1": [
+    {
+      "id": "mindmap_1769775183",
+      "type": "mindmap",
+      "title": "Mind Map",
+      "details": {
+        "filename": "mindmap.json",
+        "path": "C:\\NoteboolLM-py\\notebooklm_desktop\\python_api\\mindmap.json"
+      },
+      "created_at": "2026-01-30T20:13:03.087411"
+    },
+    {
+      "id": "study_guide_1769775237",
+      "type": "study_guide",
+      "title": "Study Guide",
+      "details": {
+        "filename": "study_guide.md",
+        "path": "C:\\NoteboolLM-py\\notebooklm_desktop\\python_api\\study_guide.md",
+        "language": "zh-TW"
+      },
+      "created_at": "2026-01-30T20:13:57.991701"
+    },
+    {
+      "id": "quiz_1769777529",
+      "type": "quiz",
+      "title": "健檢測驗",
+      "details": {
+        "filename": "quiz.json",
+        "path": "C:\\NoteboolLM-py\\notebooklm_desktop\\python_api\\quiz.json",
+        "difficulty": "easy"
+      },
+      "created_at": "2026-01-30T20:52:09.188874"
+    },
+    {
+      "id": "study_guide_1769779440",
+      "type": "study_guide",
+      "title": "Study Guide",
+      "details": {
+        "filename": "study_guide.md",
+        "path": "C:\\NoteboolLM-py\\notebooklm_desktop\\python_api\\study_guide.md",
+        "language": "zh-TW"
+      },
+      "created_at": "2026-01-30T21:24:00.101099"
+    }
+  ]
+}

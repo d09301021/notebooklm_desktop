@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+notebooklm-py
+httpx[http2]
+python-multipart
+curl_cffi
+playwrightpython-dotenv
+python-pptx
+pdfkit
+python-docx
